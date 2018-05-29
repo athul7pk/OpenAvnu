@@ -53,7 +53,7 @@
 #include <sys/un.h>
 #include <sys/user.h>
 
-#include <../../../common/avb.h>
+#include <../../../lib/common/avb.h>
 #include "gst_avb_playbin.h"
 
 /* Declare Macros*/
